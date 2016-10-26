@@ -1,5 +1,7 @@
 # I18n::Region
 
+[![Build Status](https://travis-ci.org/timsly/i18n-region.svg?branch=master)](https://travis-ci.org/timsly/i18n-region)
+
 Region support for i18n ruby gem
 
 ## Installation
