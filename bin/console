@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'i18n-region'
+
+require 'pry'
+Pry.start
